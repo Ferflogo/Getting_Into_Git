@@ -1,1 +1,14 @@
-Cuando se utiliza github, se pueden crear Rpositorios, estos son las "Carpetas" en donde guardamos los documentos que en este caso serian archivos de textos y programas
+Que es un Repositorio?
+
+Cuando se utiliza github, se pueden crear Repositorios, estos son las "Carpetas" en donde guardamos los
+documentos que en este caso serian archivos de textos y programas que vamos a utilizar, estas "Carpetas"
+pueden ser tanto publicas como privadas para los demas usuarios.
+
+Como se Guarda las modificaciones de los archivos?
+
+Cuando realizamos una Edicion o modificacion a algun archivo se debe realizar un Commit o un comentario
+el cual indica que un edicion fue hecha, esta se puede realizar a la Rama principal(Master Branch) o crear
+una nueva rama. Esto es importante, ya que se puede trabajar simultaneamente en un archivo o se pueden
+realizar versiones de pruebas y estas modificaciones no se grabaran en el Master Branch hasta ser verificadas
+por el usuario, lo cual permite tener diferentes Ramas con un mismo archivo el cual ha sido modificado por
+otro u otros usarios, esto mantiene un control sobre el Proyecto y evita errores.
