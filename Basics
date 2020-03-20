@@ -12,3 +12,5 @@ una nueva rama. Esto es importante, ya que se puede trabajar simultaneamente en 
 realizar versiones de pruebas y estas modificaciones no se grabaran en el Master Branch hasta ser verificadas
 por el usuario, lo cual permite tener diferentes Ramas con un mismo archivo el cual ha sido modificado por
 otro u otros usarios, esto mantiene un control sobre el Proyecto y evita errores.
+
+Que es el historial de Git?
