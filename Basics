@@ -25,3 +25,6 @@ El Branch son ramificaciones de nuestros repositorios, de los cuales habra un Ma
 estas ramificaciones se pueden dar en diferentes aspectos de un mismo repositorio, para ejemplificar esta
 funcion en este repositorio se dejara una Rama llamada Rama-Ejemplo en esta rama se agregara un archivo, el
 cual no estara en el Rama Principal.
+
+Tambien se puede realizar modificaciones a la Rama Principal o Master Branch y estas ser enviada a una Rama
+DISTINTA
