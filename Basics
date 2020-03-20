@@ -14,3 +14,14 @@ por el usuario, lo cual permite tener diferentes Ramas con un mismo archivo el c
 otro u otros usarios, esto mantiene un control sobre el Proyecto y evita errores.
 
 Que es el historial de Git?
+
+En el historial de Git podemos observar todas las modificaciones que se han realizado en un archivo, esta
+modificacion cuenta con un ID(Hash) el cual guarda la version de ese archivo, gracias a esto podemos
+observar versiones anteriores del documento.
+
+Que es Branch?
+
+El Branch son ramificaciones de nuestros repositorios, de los cuales habra un Master o Rama Principal,
+estas ramificaciones se pueden dar en diferentes aspectos de un mismo repositorio, para ejemplificar esta
+funcion en este repositorio se dejara una Rama llamada Rama-Ejemplo en esta rama se agregara un archivo, el
+cual no estara en el Rama Principal.
